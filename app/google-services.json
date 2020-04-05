@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597428932653",
+    "firebase_url": "https://save-a-life-ee061.firebaseio.com",
+    "project_id": "save-a-life-ee061",
+    "storage_bucket": "save-a-life-ee061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597428932653:android:386d631802d5ab676c68a4",
+        "android_client_info": {
+          "package_name": "com.example.criminalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597428932653-l0nv88044t3rr2gfppe5insa4patkn7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbpD6SwGAGbcAMARo--kTyMdwDKzdDa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597428932653-l0nv88044t3rr2gfppe5insa4patkn7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
